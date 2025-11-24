@@ -13,7 +13,7 @@ const typingIndicator = document.getElementById("typing-indicator");
 // Chat state
 let chatHistory = [
   {
-    role: "assistant",
+    role: "Gave AI",
     content:
       "Hello! I'm an LLM chat app powered by Guildmain. How can I help you today?",
   },
